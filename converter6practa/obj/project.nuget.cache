@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKBMEMBN5be6dqDwDl/LgFq6XYgRxDMoZqecCdWDD6H9WuONnk1Yl66RKU28mG1DM3xWHQBkMxNlBUr7JQwjSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Практическая №6\\converter6practa\\converter6practa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
